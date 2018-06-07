@@ -4,7 +4,7 @@
 
 >If (the template is our school) { <br> 
  >>Make the code on "DNUI_TEMPLATE" <br>
->}<br>
+<}<br>
 >else {<br>
  >>Make the code on "<SCHOOLNAME>_TEMPLATE"<br>
 >}
